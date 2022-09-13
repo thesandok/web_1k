@@ -2,6 +2,6 @@
 
 Desafio 1k de manzdev
 
-## Intentos
+## Algunos intentos
 
-[Intento 1] (index.html)
+[Intento 1](https://htmlpreview.github.io/?https://github.com/thesandok/web_1k/blob/master/index.html)
